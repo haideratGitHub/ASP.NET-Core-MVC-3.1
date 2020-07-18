@@ -25,8 +25,33 @@ namespace BookStore
                 app.UseDeveloperExceptionPage();
             }
 
+            //8. Middleware
+            //Adding new middleware
+            //async because .net core works on async programming
+            app.Use(async (context, next) =>
+            {
+                await context.Response.WriteAsync("Hello from my first middleware");
+                await next();
+                await context.Response.WriteAsync("Hello from my first middleware response");
+            });
+
+            app.Use(async (context, next) =>
+            {
+                await context.Response.WriteAsync("Hello from my second middleware");
+                await next();
+                await context.Response.WriteAsync("Hello from my second middleware response");
+            });
+
+            app.Use(async (context, next) =>
+            {
+                await context.Response.WriteAsync("Hello from my third middleware");
+                //if we use next() here then "Hello World!!" middleware will be executed else not
+            });
+
+            //Default middleware
             app.Run(async (context) =>
             {
+               
                 await context.Response.WriteAsync("Hello World!");
             });
         }

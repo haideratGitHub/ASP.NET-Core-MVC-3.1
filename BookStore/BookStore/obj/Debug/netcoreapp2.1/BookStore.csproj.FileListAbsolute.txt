@@ -1,0 +1,14 @@
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
