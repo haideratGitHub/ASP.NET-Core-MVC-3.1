@@ -28,31 +28,47 @@ namespace BookStore
             //8. Middleware
             //Adding new middleware
             //async because .net core works on async programming
-            app.Use(async (context, next) =>
-            {
-                await context.Response.WriteAsync("Hello from my first middleware");
-                await next();
-                await context.Response.WriteAsync("Hello from my first middleware response");
-            });
+            //app.Use(async (context, next) =>
+            //{
+            //    await context.Response.WriteAsync("Hello from my first middleware");
+            //    await next();
+            //    await context.Response.WriteAsync("Hello from my first middleware response");
+            //});
 
-            app.Use(async (context, next) =>
-            {
-                await context.Response.WriteAsync("Hello from my second middleware");
-                await next();
-                await context.Response.WriteAsync("Hello from my second middleware response");
-            });
+            //app.Use(async (context, next) =>
+            //{
+            //    await context.Response.WriteAsync("Hello from my second middleware");
+            //    await next();
+            //    await context.Response.WriteAsync("Hello from my second middleware response");
+            //});
 
-            app.Use(async (context, next) =>
-            {
-                await context.Response.WriteAsync("Hello from my third middleware");
-                //if we use next() here then "Hello World!!" middleware will be executed else not
-            });
+            //app.Use(async (context, next) =>
+            //{
+            //    await context.Response.WriteAsync("Hello from my third middleware");
+            //    //if we use next() here then "Hello World!!" middleware will be executed else not
+            //});
 
             //Default middleware
             app.Run(async (context) =>
             {
                
                 await context.Response.WriteAsync("Hello World!");
+                if (env.IsDevelopment())
+                {
+                    await context.Response.WriteAsync("Hello World from dev");
+                }
+                else if (env.IsProduction())
+                {
+                    await context.Response.WriteAsync("Hello World from pro");
+                }
+                else if (env.IsStaging())
+                {
+                    await context.Response.WriteAsync("Hello World from stag");
+                }
+                else
+                {
+                    await context.Response.WriteAsync("Hello World from "+ env.EnvironmentName);
+                }
             });
         }
     }
