@@ -15,6 +15,7 @@ namespace BookStore
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMvc(); //we can achieve same feature with services.AddControllersWithViews
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -24,6 +25,7 @@ namespace BookStore
             {
                 app.UseDeveloperExceptionPage();
             }
+
 
             //8. Middleware
             //Adding new middleware
@@ -51,24 +53,24 @@ namespace BookStore
             //Default middleware
             app.Run(async (context) =>
             {
-               
+          
                 await context.Response.WriteAsync("Hello World!");
-                if (env.IsDevelopment())
-                {
-                    await context.Response.WriteAsync("Hello World from dev");
-                }
-                else if (env.IsProduction())
-                {
-                    await context.Response.WriteAsync("Hello World from pro");
-                }
-                else if (env.IsStaging())
-                {
-                    await context.Response.WriteAsync("Hello World from stag");
-                }
-                else
-                {
-                    await context.Response.WriteAsync("Hello World from "+ env.EnvironmentName);
-                }
+                //if (env.IsDevelopment())
+                //{
+                //    await context.Response.WriteAsync("Hello World from dev");
+                //}
+                //else if (env.IsProduction())
+                //{
+                //    await context.Response.WriteAsync("Hello World from pro");
+                //}
+                //else if (env.IsStaging())
+                //{
+                //    await context.Response.WriteAsync("Hello World from stag");
+                //}
+                //else
+                //{
+                //    await context.Response.WriteAsync("Hello World from "+ env.EnvironmentName);
+                //}
             });
         }
     }
