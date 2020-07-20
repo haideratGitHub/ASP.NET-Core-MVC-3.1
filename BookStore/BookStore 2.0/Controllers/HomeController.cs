@@ -8,9 +8,14 @@ namespace BookStore_2._0.Controllers
 {
     public class HomeController:Controller
     {
-        public String Index()
+        public ViewResult Index()
         {
-            return "Haider";
+            return View();
+        }
+
+        public ViewResult AboutUs()
+        {
+            return View();
         }
     }
 }

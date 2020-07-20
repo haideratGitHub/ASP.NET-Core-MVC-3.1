@@ -1,0 +1,33 @@
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\bin\Debug\netcoreapp3.1\BookStore 2.0.exe
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\bin\Debug\netcoreapp3.1\BookStore 2.0.deps.json
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\bin\Debug\netcoreapp3.1\BookStore 2.0.runtimeconfig.json
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\bin\Debug\netcoreapp3.1\BookStore 2.0.runtimeconfig.dev.json
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\bin\Debug\netcoreapp3.1\BookStore 2.0.dll
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\bin\Debug\netcoreapp3.1\BookStore 2.0.pdb
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\bin\Debug\netcoreapp3.1\BookStore 2.0.Views.dll
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\bin\Debug\netcoreapp3.1\BookStore 2.0.Views.pdb
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.csprojAssemblyReference.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.AssemblyInfoInputs.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.AssemblyInfo.cs
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.csproj.CoreCompileInputs.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.MvcApplicationPartsAssemblyInfo.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.RazorAssemblyInfo.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.RazorAssemblyInfo.cs
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.TagHelpers.input.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.TagHelpers.output.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.RazorCoreGenerate.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetAllBooks.cshtml.g.cs
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.RazorTargetAssemblyInfo.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.RazorTargetAssemblyInfo.cs
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.Views.pdb
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\staticwebassets\BookStore 2.0.StaticWebAssets.Manifest.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\staticwebassets\BookStore 2.0.StaticWebAssets.xml
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.dll
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.pdb
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.genruntimeconfig.cache
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.csproj.CopyComplete

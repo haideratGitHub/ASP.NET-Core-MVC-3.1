@@ -12,3 +12,5 @@ D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\net
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.genruntimeconfig.cache
