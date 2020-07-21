@@ -12,8 +12,6 @@ D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\bin\Debug
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.csprojAssemblyReference.cache
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.AssemblyInfoInputs.cache
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.AssemblyInfo.cs
-D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.csproj.CoreCompileInputs.cache
-D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.MvcApplicationPartsAssemblyInfo.cache
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.RazorAssemblyInfo.cache
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.RazorAssemblyInfo.cs
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.TagHelpers.input.cache

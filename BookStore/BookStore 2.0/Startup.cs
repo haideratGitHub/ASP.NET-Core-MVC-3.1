@@ -19,6 +19,10 @@ namespace BookStore_2._0
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+#if DEBUG
+            services.AddRazorPages().AddRazorRuntimeCompilation();
+#endif
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -27,6 +31,7 @@ namespace BookStore_2._0
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+              
             }
 
             app.UseStaticFiles(); //to use static files, we have to use this middleware
