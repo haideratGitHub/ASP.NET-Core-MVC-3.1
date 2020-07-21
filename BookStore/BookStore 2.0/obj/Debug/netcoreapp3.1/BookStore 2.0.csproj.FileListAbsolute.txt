@@ -31,3 +31,4 @@ D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.pdb
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.genruntimeconfig.cache
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\BookStore 2.0.csproj.CopyComplete
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\bin\Debug\netcoreapp3.1\libman.json
