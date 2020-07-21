@@ -1,11 +1,13 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Hosting;
 
 namespace BookStore_2._0
@@ -27,6 +29,13 @@ namespace BookStore_2._0
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseStaticFiles(); //to use static files, we have to use this middleware
+            //TO use static files from the folder of our own choice so.
+            app.UseStaticFiles(new StaticFileOptions()
+            {
+                FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "MyStaticFiles")),
+                RequestPath = "/MyStaticFiles"
+            }) ;
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>

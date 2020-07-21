@@ -3,16 +3,18 @@
 *@
 @{
 }
+<link href="~/css/Site.css" rel="stylesheet" />
 <h1>Welcome to Book store application</h1>
 <h2>Using razor syntax @DateTime.Now.ToString("dd-m-yy")</h2>
 
 <h2>sum = @(3+5)</h2>
 <hr />
 <h2>Multiline razor syntax - </h2>
-@{ 
+@{
     //any logic here
     int a = 10;
     int b = 10;
     int c = a + b;
 }
 <h3>@c</h3>
+<h5>wwwroot folder is used to store static files (css,images,js) in out project</h5>

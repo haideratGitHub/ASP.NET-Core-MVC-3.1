@@ -6,7 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="MyStaticFiles\" />
     <Folder Include="Views\Shared\" />
+    <Folder Include="wwwroot\images\" />
+    <Folder Include="wwwroot\js\" />
   </ItemGroup>
 
 </Project>
