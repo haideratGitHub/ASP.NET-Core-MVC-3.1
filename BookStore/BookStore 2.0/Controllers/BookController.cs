@@ -22,7 +22,7 @@ namespace BookStore_2._0.Controllers
         public ViewResult GetAllBooks()
         {
             var data = _bookRepository.GetAllBooks();
-            return View();
+            return View(data);
         }
         public BookModel GetBook(int id)
         {
