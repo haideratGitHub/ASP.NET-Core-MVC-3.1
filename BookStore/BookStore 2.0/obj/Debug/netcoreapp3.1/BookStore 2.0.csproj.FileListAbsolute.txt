@@ -351,3 +351,4 @@ D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetBook.cshtml.g.cs
 D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\Razor\_ViewStart.cshtml.g.cs
+D:\Zshan Mentoring\Task 6\ASP.NET-Core-MVC-3.1\BookStore\BookStore 2.0\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
