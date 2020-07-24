@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jpGF/Ob4y2yIn2NsHnNK9OdcIUlm+ksoFnFrinTadI7l61s3jOhfzmPc1ewbx/pISLMCoC/TLIfcDKgPHLTSqg==",
+  "dgSpecHash": "p1EfXQtwGVhZSIRLaam2HPnTCj0qcr4gvUS4GroB6ibwB5grwGgb1yu+ASVpDV3/VGnlVgju29FHKQMY7SgFUw==",
   "success": true,
   "projectFilePath": "D:\\Zshan Mentoring\\Task 6\\ASP.NET-Core-MVC-3.1\\BookStore\\BookStore 2.0\\BookStore 2.0.csproj",
   "expectedPackageFiles": [
@@ -13,11 +13,12 @@
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.codeanalysis.common\\3.3.0\\microsoft.codeanalysis.common.3.3.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.3.0\\microsoft.codeanalysis.csharp.3.3.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.codeanalysis.razor\\3.1.6\\microsoft.codeanalysis.razor.3.1.6.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19269.1\\microsoft.data.sqlclient.1.0.19269.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.6\\microsoft.entityframeworkcore.3.1.6.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.6\\microsoft.entityframeworkcore.abstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.6\\microsoft.entityframeworkcore.analyzers.3.1.6.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.6\\microsoft.entityframeworkcore.design.3.1.6.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.6\\microsoft.entityframeworkcore.relational.3.1.6.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.6\\microsoft.entityframeworkcore.sqlserver.3.1.6.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.6\\microsoft.extensions.caching.abstractions.3.1.6.nupkg.sha512",
