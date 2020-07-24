@@ -33,6 +33,15 @@ namespace BookStore_2._0.Controllers
         {
             return _bookRepository.SearchBook(bookName, authorName);
         }
+        public ViewResult AddNewBook()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ViewResult AddNewBook(BookModel bookModel)
+        {
+            return View();
+        }
         /*
         public String GetAllBooks()
         {
@@ -43,6 +52,6 @@ namespace BookStore_2._0.Controllers
             return $"book with id = {id}";
         }
         */
-        
+
     }
 }
