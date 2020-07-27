@@ -46,6 +46,8 @@ namespace BookStore_2._0.Controllers
             {
                
             }
+
+            ModelState.AddModelError("", "This is my custom error message");//this is benefit of using validation summary
             return View();
         }
         /*
