@@ -36,6 +36,7 @@ namespace BookStore_2._0.Controllers
         }
         public ViewResult AddNewBook(bool isSuccess = false)
         {
+            ViewBag.language = new List<String>() { "Hindi", "English", "Dutch" };
             ViewBag.IsSuccess = isSuccess;
             return View();
         }
@@ -46,6 +47,8 @@ namespace BookStore_2._0.Controllers
             {
                
             }
+
+            ViewBag.language = new List<String>() { "Hindi", "English", "Dutch" };
 
             ModelState.AddModelError("", "This is my custom error message");//this is benefit of using validation summary
             return View();
