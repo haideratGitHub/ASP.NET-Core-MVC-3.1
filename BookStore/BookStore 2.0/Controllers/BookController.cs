@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using BookStore_2._0.Models;
 using BookStore_2._0.Repository;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace BookStore_2._0.Controllers
 {
@@ -33,13 +34,18 @@ namespace BookStore_2._0.Controllers
         {
             return _bookRepository.SearchBook(bookName, authorName);
         }
-        public ViewResult AddNewBook()
+        public ViewResult AddNewBook(bool isSuccess = false)
         {
+            ViewBag.IsSuccess = isSuccess;
             return View();
         }
         [HttpPost]
         public ViewResult AddNewBook(BookModel bookModel)
         {
+            if (ModelState.IsValid)
+            {
+               
+            }
             return View();
         }
         /*
