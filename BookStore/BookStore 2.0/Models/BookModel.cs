@@ -8,6 +8,9 @@ namespace BookStore_2._0.Models
 {
     public class BookModel
     {
+        [DataType(DataType.Date)]
+        [Display(Name ="Choose date: ")]
+        public String MyField { get; set; }
         public int Id { get; set; }
         [StringLength(100,MinimumLength =5)]
         [Required(ErrorMessage ="Please enter the title of your book")]
