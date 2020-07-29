@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Http;
 
 namespace BookStore_2._0.Models
 {
@@ -22,5 +23,9 @@ namespace BookStore_2._0.Models
         public string Language { get; set; }
         [Required]
         public int Totalpages { get; set; }
+
+        [Display(Name ="Choose the cover photo of your book")]
+        [Required]
+        public IFormFile CoverPhoto { get; set; }
     }
 }
